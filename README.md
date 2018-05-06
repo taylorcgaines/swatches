@@ -2,9 +2,15 @@
 Searchable DB of Makeup Swatches
 MERN (MongoDB/Express/React/Node.js)
 
+I have found that there is a lack of a tool to help people find swatches that match their skin color. In this age of buying makeup online, it is helpful to see a product on skin not only to verify its quality, but to find out if a color matches their skin (if its foundation), or will pull the intended shade when on their skin (colors will look different on different canvases).
+
+The completion of this project will be a tool that users can search by skin tone the products that they are thinking of buying. Users will be able to upload their own swatches. The database will be monitored to assure quality tagging, and to keep inappropriate pictures out (be that puppies or anything more sinister).
+
+I am as of now unsure of the aesthetic of the finished product. I'll be focusing on getting the back end up and running for now.
+
 ## Necessaries
 * Search by
-  * skintone of swatcher
+  * skin tone of swatcher
   * price range - drugstore/high-end
   * brand
   * product and color - foundations/concealers will have different colors to select than lipsticks/eyeshadows.  finish/shade(nudes/brights/other)
