@@ -17,6 +17,8 @@ I am as of now unsure of the aesthetic of the finished product. I'll be focusing
 * Filters (not necessary to search by)
   * 1 or 2 swipe, or when they mix it with a medium and swatch it.
 * Auto-complete on search and tags.
+* Some sort of "user trust level"
+* "Report this Swatch"
 
 ## "Would-Be-Nice"s
 * website based backend DB management
@@ -24,6 +26,7 @@ I am as of now unsure of the aesthetic of the finished product. I'll be focusing
 
 ## Laters
 * dupes?
+* compare 2 or 3 swatches
 
 ## Mongo tags
 * skin tone - Undertones are important. If someone is looking for "fair with cool undertone" it would be preferable to see results for "light with cool undertone" instead of "fair with neutral/warm undertones" because of how colors show.
@@ -31,6 +34,16 @@ I am as of now unsure of the aesthetic of the finished product. I'll be focusing
 * drugstore/high-end
 * product
 * color (nudes/brights/other)
+* CF/Vegan
+
+## Potential Issues
+* embedded scripters
+* some swatch pictures involve a couple of products. How to handle that.
+* input sanitation
+* size and rate limiting
+* user quotas
+* don't let someone upload a billion gig image, or constantly upload small images
+* if someone uploads something illegal, it is now your problem, and "illegal" is defined by where the server is located
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
